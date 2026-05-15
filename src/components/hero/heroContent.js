@@ -8,7 +8,7 @@ export const heroContent = {
   links: {
     projects: "/projects",
     experience: "/experience",
-    cv: "/document/CV_Muhamad_Valiant_Present.pdf",
+    cv: "/cv",
     contact: "mailto:hello@example.com",
     github: "https://github.com/Valiantalhakim",
   },
