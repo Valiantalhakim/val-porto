@@ -42,6 +42,11 @@ export const techStack = [
     color: "from-fuchsia-300 to-violet-500",
   },
   {
+    name: "n8n",
+    logo: "/logos/tect%20logo/n8n.png",
+    color: "from-orange-300 to-rose-500",
+  },
+  {
     name: "Selenium",
     logo: "/logos/tect%20logo/selenium.png",
     color: "from-lime-300 to-emerald-500",

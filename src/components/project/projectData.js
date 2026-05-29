@@ -165,6 +165,41 @@ export const projectSections = [
           },
         ],
       },
+      {
+        slug: "n8n-whatsapp-chatbot-automation",
+        title: "n8n WhatsApp Chatbot Automation",
+        description:
+          "Built an AI-powered WhatsApp chatbot using n8n and WAHA API that retrieves information from PDF documents and Google Sheets. The chatbot answers interviewer questions via private WhatsApp chat based on my CV, skills, experience, and internship daily reports.",
+        status: "Completed",
+        techStack: ["n8n", "Automation", "WhatsApp", "Chatbot", "AI Workflow"],
+        categories: ["AI", "Automation"],
+        icon: Bot,
+        sourceCodeHref: null,
+        screenshotFolder: "public/screnshoot project/n8n automation",
+        screenshots: [
+          {
+            title: "WhatsApp Chatbot Flow",
+            type: "n8n Workflow",
+            src: "/screnshoot%20project/n8n%20automation/flow%20chat%20bot%20whasapp.png",
+            width: 1315,
+            height: 693,
+          },
+          {
+            title: "n8n Automation Experiment",
+            type: "Automation Flow",
+            src: "/screnshoot%20project/n8n%20automation/exp.png",
+            width: 662,
+            height: 928,
+          },
+          {
+            title: "n8n Automation Result",
+            type: "Automation Flow",
+            src: "/screnshoot%20project/n8n%20automation/exp%202.png",
+            width: 660,
+            height: 795,
+          },
+        ],
+      },
     ],
   },
   {

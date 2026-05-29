@@ -7,6 +7,7 @@ export const techLogoMap = {
   Langflow: "/logos/tect%20logo/langflow.png",
   Laravel: "/logos/tect%20logo/laravel-icon.png",
   MySQL: "/logos/tect%20logo/mysql-icon.jpg",
+  n8n: "/logos/tect%20logo/n8n.png",
   "Next.js": "/logos/tect%20logo/nextjs.png",
   Python: "/logos/tect%20logo/python_logo_icon_168886.webp",
   React: "/logos/tect%20logo/React-icon.svg.png",
