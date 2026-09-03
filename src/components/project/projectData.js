@@ -1,5 +1,6 @@
 import {
   Bot,
+  ClipboardCheck,
   LayoutGrid,
   Smartphone,
 } from "lucide-react";
@@ -7,6 +8,7 @@ import {
 export const filters = [
   "All",
   "AI",
+  "QA",
   "Mobile",
   "UI/UX",
   "Automation",
@@ -18,6 +20,33 @@ export const projectSections = [
     subtitle:
       "AI workflows, automation concepts, API integrations, and mobile proof-of-concepts.",
     projects: [
+      {
+        slug: "develab-mobile-app-quality-assurance",
+        title: "Mobile App Quality Assurance — Develab",
+        description:
+          "Performed quality assurance testing for a mobile application project developed at Develab, validating its functionality and behavior across multiple mobile devices.",
+        status: "Professional Experience",
+        techStack: [
+          "Quality Assurance",
+          "Mobile App Testing",
+          "Manual Testing",
+          "Functional Testing",
+          "Cross-Device Testing",
+        ],
+        categories: ["QA", "Mobile"],
+        icon: ClipboardCheck,
+        sourceCodeHref: null,
+        screenshotFolder: "public/screnshoot project/QA",
+        screenshots: [
+          {
+            title: "Mobile App Cross-Device Testing",
+            type: "Quality Assurance",
+            src: "/screnshoot%20project/QA/testing%20mobile%20app.jpeg",
+            width: 1280,
+            height: 960,
+          },
+        ],
+      },
       {
         slug: "schedule-chat-platform",
         title: "Schedule Chat Platform",
@@ -71,6 +100,13 @@ export const projectSections = [
             src: "/screnshoot%20project/mobile/schedule%20chat%20platform%205.png",
             width: 574,
             height: 849,
+          },
+          {
+            title: "Schedule Chat Flutter Development",
+            type: "Flutter Development",
+            src: "/screnshoot%20project/mobile/coding%20flutter.jpeg",
+            width: 960,
+            height: 1280,
           },
         ],
       },

@@ -8,9 +8,10 @@ export const experiences = [
     duration: "Apr 2026 - Present",
     logo: "/logos/develab_logo_.png",
     description:
-      "Worked on AI workflow exploration, QA automation concepts, mobile proof-of-concepts, and calendar synchronization systems involving Google Calendar and Microsoft Graph APIs.",
+      "i'm worked as software engineer intern, focusing development mobile application, testing mobile application, AI workflow exploration",
     responsibilities: [
       "Explored Langflow-based QA workflow automation",
+      "work as QA testing application mobile",
       "Researched AI-assisted Selenium testing concepts",
       "Built speech-to-text mobile prototype using Flutter",
       "Implemented Google Calendar synchronization flow",
