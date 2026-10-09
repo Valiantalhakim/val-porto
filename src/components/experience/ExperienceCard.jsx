@@ -42,7 +42,7 @@ export default function ExperienceCard({ experience }) {
   return (
     <CardWrapper
       href={experience.href}
-      aria-label={experience.href ? `Open ${experience.company} evaluation` : undefined}
+      aria-label={experience.href ? `Open ${experience.company} document` : undefined}
       className={experience.href ? "block focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 focus-visible:ring-offset-2 focus-visible:ring-offset-black" : undefined}
     >
       <motion.article

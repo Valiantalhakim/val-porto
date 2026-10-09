@@ -32,7 +32,7 @@ const heroActions = [
     href: heroContent.links.cv,
     icon: ArrowDownToLine,
     label: "Download CV",
-    download: "Muhammad-Valiant-Althaf-CV.pdf",
+    download: "CV_M.VALIANT ALTHAF OFFICIAL.pdf",
   },
   {
     id: "github",

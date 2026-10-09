@@ -7,10 +7,12 @@ export const experiences = [
     location: "Malaysia - Kuala Lumpur",
     duration: "Apr 2026 - Present",
     logo: "/logos/develab_logo_.png",
+    href: "/experience/develab",
     description:
       "i'm worked as software engineer intern, focusing development mobile application, testing mobile application, AI workflow exploration",
     responsibilities: [
       "Explored Langflow-based QA workflow automation",
+      "Developed Frontend Mobile App used Flutter",
       "work as QA testing application mobile",
       "Researched AI-assisted Selenium testing concepts",
       "Built speech-to-text mobile prototype using Flutter",
