@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ArrowLeft, FileText } from "lucide-react";
 
 const transcriptSrc =
-  "/document/pdfTranscript%20valiant%20terbaru.pdf#toolbar=0&navpanes=0";
+  "/document/Student%20View%20Transcript%20-%20MUHAMMAD%20VALIANT%20ALTHAF%20ALHAKIM%20FINAL.pdf#toolbar=0&navpanes=0";
 
 export default function AEUTranscriptPage() {
   return (

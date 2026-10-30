@@ -78,7 +78,7 @@ export const educationCards = [
     name: "Asia e University",
     label: "University",
     country: "Malaysia",
-    period: "Intake: 2022 - Present",
+    period: "Intake: 2022 - 2026",
     initials: "AeU",
     logo: "/logos/aeu-logo-default-news.webp",
     href: "/education/AEU",
