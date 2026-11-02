@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ArrowLeft, Award } from "lucide-react";
 
 const certificationSrc =
-  "/document/Certificate%20of%20completion%20-%20Develab%20Sdn.%20Bhd..pdf#toolbar=0&navpanes=0";
+  "/document/Certificateofcompletion_hidesensitivedata_DevelabSdn.Bhd._page-0001.jpg";
 
 export default function DevelabCertificationPage() {
   return (
@@ -48,10 +48,10 @@ export default function DevelabCertificationPage() {
 
         <section className="mx-auto w-full max-w-4xl">
           <div className="overflow-hidden rounded-2xl border border-white/10 bg-white/[0.035] p-2 shadow-2xl shadow-black/40 backdrop-blur-xl sm:p-3">
-            <iframe
-              title="Develab certificate of completion"
+            <img
               src={certificationSrc}
-              className="h-[70vh] min-h-[480px] w-full rounded-xl bg-white"
+              alt="Develab certificate of completion"
+              className="w-full rounded-xl bg-white"
             />
           </div>
         </section>
