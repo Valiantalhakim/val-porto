@@ -5,21 +5,21 @@ export const experiences = [
     company: "Develab Sdn. Bhd.",
     role: "Software Engineer Intern",
     location: "Malaysia - Kuala Lumpur",
-    duration: "Apr 2026 - Present",
+    duration: "Apr 2026 - Oct 2026",
     logo: "/logos/develab_logo_.png",
     href: "/experience/develab",
     description:
       "i'm worked as software engineer intern, focusing development mobile application, testing mobile application, AI workflow exploration",
     responsibilities: [
-      "Explored Langflow-based QA workflow automation",
-      "Developed Frontend Mobile App used Flutter",
-      "work as QA testing application mobile",
+      "Developed a scheduling mobile app for 1 Vietnamese client using Flutter, as part of a team project",
+      "Tested app features, reported bugs, and verified fixes before release.",
       "Researched AI-assisted Selenium testing concepts",
       "Built speech-to-text mobile prototype using Flutter",
       "Implemented Google Calendar synchronization flow",
       "Explored Microsoft Graph delta sync architecture",
       "Worked with OAuth authentication and API integration",
       "Participated in R&D-style engineering tasks",
+      "Learning how to implement Langflow-based QA workflow automation",
     ],
     techStack: [
       "Python",
@@ -45,6 +45,7 @@ export const experiences = [
     description:
       "Contributed part of business analysis, chatbot workflow exploration, UI/UX creation, and data-related operational tasks during internship activities.",
     responsibilities: [
+      "Built an ML-powered auto reply system for Linknet X account to handle customer tweets automatically.",
       "Assisted business analysis activities",
       "Explored chatbot workflow concepts",
       "Worked on UI/UX proposal design",
