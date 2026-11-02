@@ -1,7 +1,7 @@
 export const heroContent = {
   name: "Muhammad Valiant Althaf Alhakim",
   shortName: "Valiant Alhakim",
-  subtitle: "ICT & International Certified Software Engineer (NIIT)",
+  subtitle: "BICT with International Certified Software Engineer",
   description:
     "Passionate Software Engineer with experience in full-stack web development, mobile development, and AI-powered systems & automation workflows. Focused on building modern and scalable digital solutions.",
   // Edit these links to match your real portfolio routes and assets.
