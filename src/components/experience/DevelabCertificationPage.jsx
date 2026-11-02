@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ArrowLeft, Award } from "lucide-react";
 
 const certificationSrc =
-  "/document/Certificateofcompletion_hidesensitivedata_DevelabSdn.Bhd._page-0001.jpg";
+  "/document/Develab MY - Experience Letter - Muhammad Valiant Althaf.docx_page-0001.jpg";
 
 export default function DevelabCertificationPage() {
   return (
